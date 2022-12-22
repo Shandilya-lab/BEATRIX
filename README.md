@@ -1,4 +1,5 @@
-# BEATRIX: A rhythmic drum beat sequencer.
+# BEATRIX
+A rhythmic drum beat sequencer.
 
 ## Install the required libraries: pip install -r requirements.txt 
 
