@@ -1,0 +1,7 @@
+numpy
+pygame
+pyaudio
+scipy
+matplotlib
+wave
+soundfile
