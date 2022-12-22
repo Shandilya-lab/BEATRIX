@@ -1,7 +1,8 @@
 # BEATRIX: A rhythmic drum beat sequencer.
 
 ## Install the required libraries: pip install -r requirements.txt 
-![Gridlayout](https://user-images.githubusercontent.com/85631831/209206057-112d5898-3472-436e-9df4-13dd6b75db55.png)
+
+![image](https://user-images.githubusercontent.com/85631831/209206391-896fc41c-d23a-411e-bb1e-8a3adb53ccc7.png)
 
 
 
